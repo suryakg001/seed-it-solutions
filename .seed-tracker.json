@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastSynced": "2026-09-22T13:11:33.928Z",
+  "lastSynced": "2026-09-22T13:17:42.161Z",
   "problems": {
     "Q0.1": {
       "questionId": "Q0.1",
@@ -23,6 +23,17 @@
         "c"
       ],
       "lastSolvedAt": "2026-09-22T13:11:33.928Z"
+    },
+    "Q0.3": {
+      "questionId": "Q0.3",
+      "title": "Basic_level_0_Datatypes_3",
+      "category": "General",
+      "difficulty": "Medium",
+      "folderPath": "Problems/general/q0-3-basic-level-0-datatypes-3",
+      "languages": [
+        "c"
+      ],
+      "lastSolvedAt": "2026-09-22T13:17:42.161Z"
     }
   }
 }
