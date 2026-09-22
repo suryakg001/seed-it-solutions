@@ -4,23 +4,25 @@ Automated problem solving repository and day-to-day coding tracks powered by [SE
 
 ## 📊 Progress & Statistics
 
-![Total Solved](https://img.shields.io/badge/Solved-1%20Problems-blue?style=for-the-badge&logo=codeforces) ![Easy](https://img.shields.io/badge/Easy-0-brightgreen?style=for-the-badge) ![Medium](https://img.shields.io/badge/Medium-1-orange?style=for-the-badge) ![Hard](https://img.shields.io/badge/Hard-0-red?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Solved-2%20Problems-blue?style=for-the-badge&logo=codeforces) ![Easy](https://img.shields.io/badge/Easy-0-brightgreen?style=for-the-badge) ![Medium](https://img.shields.io/badge/Medium-2-orange?style=for-the-badge) ![Hard](https://img.shields.io/badge/Hard-0-red?style=for-the-badge)
 
 ### 💻 Languages Breakdown
 
-- **C**: 1 solution
+- **C**: 2 solutions
 
 ## 📅 Recent Activity (Day-to-Day Solving Log)
 
 | Date | Problem | Category | Difficulty | Languages | Folder |
 | :--- | :--- | :--- | :---: | :---: | :---: |
+| 2026-09-22 | [Q0.2 - Basic_level_0_Datatypes_2](./Problems/general/q0-2-basic-level-0-datatypes-2) | General | `Medium` | c | [View](./Problems/general/q0-2-basic-level-0-datatypes-2) |
 | 2026-09-16 | [Q0.1 - Basic_level_0_Datatypes_1](./Problems/general/q0-1-basic-level-0-datatypes-1) | General | `Medium` | c | [View](./Problems/general/q0-1-basic-level-0-datatypes-1) |
 
 ## 📂 Problem Index by Topic
 
 <details>
-<summary><b>📁 General (1 Problem)</b></summary>
+<summary><b>📁 General (2 Problems)</b></summary>
 
+- [Q0.2 - Basic_level_0_Datatypes_2](./Problems/general/q0-2-basic-level-0-datatypes-2) — `Medium`
 - [Q0.1 - Basic_level_0_Datatypes_1](./Problems/general/q0-1-basic-level-0-datatypes-1) — `Medium`
 
 </details>
